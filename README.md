@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **HTML5 , React.js , React-Native , Bootstarp , Material-UI , Ant-Design , Firebase , Typescript , Javascript , Angular , Nextjs , pythone**
 
-- 📫 How to reach me **lili.shakil@gmail.com**
+- 📫 How to reach me **lili.shaqil@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/laiba-shakeel/](https://www.linkedin.com/in/laiba-shakeel/)
 
