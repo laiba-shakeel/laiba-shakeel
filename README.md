@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **NaxBash** [Remote Based Company]
 
-- 🌱 I’m currently learning **Angular , Typescript , Next.Js**
+- 🌱 I’m currently learning **Python , Typescript **
 
 - 👯 I’m looking to collaborate on [enseedling](https://enseedling.com/)
 
