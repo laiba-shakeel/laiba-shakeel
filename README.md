@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/@lilishaqil" target="blank"><img src="https://img.shields.io/twitter/follow/@lilishaqil?logo=twitter&style=for-the-badge" alt="@lilishaqil" /></a> </p>
   
 
-- 🔭 I’m currently working on [blakaces.co](https://blakaces.co/)
+- 🔭 I’m currently working on [blakaces.co]NaxBash
 
 - 🌱 I’m currently learning **Angular , Typescript , Next.Js**
 
