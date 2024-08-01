@@ -1,14 +1,11 @@
 <div align="center">
-
-![](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi%20👋,%20I'm%20Laiba%20Shakeel&textBg=false&animation=scaleIn&fontSize=50&section=header&fontAlignY=40)
-
+  ![](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi%20👋,%20I'm%20Laiba%20Shakeel&textBg=false&animation=scaleIn&fontSize=50&section=header&fontAlignY=40)
 </div>
 
 <div align="center">
-  
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=laiba-shakeel&data=followers,repositories,stars,commits&theme=light&hide_border=true)](https://github.com/laiba-shakeel/laiba-shakeel-widgetbox)
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=laiba-shakeel&data=followers,repositories,stars,commits&theme=light&hide_border=true)](https://github.com/laiba-shakeel/laiba-shakeel-widgetbox)
+</div>
 
-</div
 # About Me:
 
 Welcome to my GitHub profile. I'm a passionate **MERN Stack Developer** from Pakistan, excited to share my journey and projects with you. Here’s a bit more about me:
@@ -37,19 +34,27 @@ Welcome to my GitHub profile. I'm a passionate **MERN Stack Developer** from Pak
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@lilishaqil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lilishaqil" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/laiba-shakeel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Laiba Shakeel" height="30" width="40" /></a>
-<a href="https://www.facebook.com/bai.funjai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Laiba Shakeel" height="30" width="40" /></a>
-<a href="https://www.instagram.com/laiba_shakeel10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Laiba Shakeel" height="30" width="40" /></a>
+  <a href="https://twitter.com/@lilishaqil" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lilishaqil" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/laiba-shakeel/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Laiba Shakeel" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/bai.funjai/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Laiba Shakeel" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/laiba_shakeel10/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Laiba Shakeel" height="30" width="40" />
+  </a>
 </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" 
-     height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -84,7 +89,5 @@ Welcome to my GitHub profile. I'm a passionate **MERN Stack Developer** from Pak
 </p>
 
 <div align="center">
-
-![](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Thanks%20for%20reading%20the%20readme.&textBg=false&animation=scaleIn&fontSize=30&section=footer&fontAlignY=70)
-
+  ![](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Thanks%20for%20reading%20the%20readme.&textBg=false&animation=scaleIn&fontSize=30&section=footer&fontAlignY=70)
 </div>
