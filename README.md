@@ -37,6 +37,51 @@ Welcome to my GitHub profile. I'm a passionate **MERN Stack Developer** from Pak
 - 📄 Know about my experiences [https://www.linkedin.com/in/laiba-shakeel/](https://www.linkedin.com/in/laiba-shakeel/)
 
 - ⚡ Fun fact **I can juggle code, coffee, and cat memes with equal proficiency!**
+# My Stats 🔥:
+
+<div style="display: flex; justify-content: center; align-items: start; flex-direction: column;">
+
+  <div>
+
+  ![Laiba Shakeel's Stats](https://github-readme-stats.vercel.app/api?username=laiba-shakeel&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+  </div>
+
+  <div>
+
+  ![Laiba Shakeel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=laiba-shakeel&theme=tokyonight&hide_border=true)
+  
+  </div>
+
+  <div>
+
+  ![Laiba Shakeel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laiba-shakeel&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+  </div>
+
+  <div>
+
+  ![Laiba Shakeel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=laiba-shakeel&bg_color=000000&color=00ffee&line=ffffff&point=0008ff&area=true&hide_border=true)
+
+  </div>
+
+</div>
+
+### I post actively on ...
+
+<a href="https://www.linkedin.com/in/laiba-shakeel/" title="Laiba Shakeel" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
+
+### You can also find me on ...
+
+<a href="mailto:lili.shaqil@gmail.com" target="_blank" title="lili.shaqil@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
+
+<br/>
+
+<div align="center">
+
+![](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Thanks%20for%20reading%20the%20readme.&textBg=false&animation=scaleIn&fontSize=30&section=footer&fontAlignY=70)
+
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
