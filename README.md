@@ -38,36 +38,6 @@ Welcome to my GitHub profile. I'm a passionate **MERN Stack Developer** from Pak
 
 - ⚡ Fun fact **I can juggle code, coffee, and cat memes with equal proficiency!**
 
-# My Stats 🔥:
-
-<div style="display: flex; justify-content: center; align-items: start; flex-direction: column;">
-
-  <div>
-
-  ![Laiba Shakeel's Stats](https://github-readme-stats.vercel.app/api?username=laiba-shakeel&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&custom_title=Zain-Khan-25%27s%20GitHub%20Stats&stars=10&commits=788&prs=7&issues=5)
-
-  </div>
-
-  <div>
-
-  ![Laiba Shakeel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=laiba-shakeel&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&start_date=2023-06-25&end_date=2024-08-01&total_contributions=1257&current_streak=38&longest_streak=79)
-  
-  </div>
-
-  <div>
-
-  ![Laiba Shakeel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laiba-shakeel&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
-  </div>
-
-  <div>
-
-  ![Laiba Shakeel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=laiba-shakeel&bg_color=000000&color=00ffee&line=ffffff&point=0008ff&area=true&hide_border=true)
-
-  </div>
-
-</div>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@lilishaqil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lilishaqil" height="30" width="40" /></a>
