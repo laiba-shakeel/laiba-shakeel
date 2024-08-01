@@ -7,11 +7,7 @@
 <div align="center">
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=laiba-shakeel&data=followers,repositories,stars,commits&theme=light&hide_border=true)](https://github.com/laiba-shakeel/laiba-shakeel-widgetbox)
-
-<img src="https://komarev.com/ghpvc/?username=laiba-shakeel&label=Profile%20views&color=0e75b6&style=flat" alt="laiba-shakeel" />
-
-</div>
-
+</div
 # About Me:
 
 Welcome to my GitHub profile. I'm a passionate **MERN Stack Developer** from Pakistan, excited to share my journey and projects with you. Here’s a bit more about me:
