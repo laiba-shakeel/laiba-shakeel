@@ -67,22 +67,6 @@ Welcome to my GitHub profile. I'm a passionate **MERN Stack Developer** from Pak
 
 </div>
 
-### I post actively on ...
-
-<a href="https://www.linkedin.com/in/laiba-shakeel/" title="Laiba Shakeel" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
-
-### You can also find me on ...
-
-<a href="mailto:lili.shaqil@gmail.com" target="_blank" title="lili.shaqil@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
-
-<br/>
-
-<div align="center">
-
-![](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Thanks%20for%20reading%20the%20readme.&textBg=false&animation=scaleIn&fontSize=30&section=footer&fontAlignY=70)
-
-</div>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@lilishaqil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lilishaqil" height="30" width="40" /></a>
