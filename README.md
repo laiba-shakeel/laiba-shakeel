@@ -3,9 +3,7 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi%20👋,%20I'm%20Laiba%20Shakeel&textBg=false&animation=scaleIn&fontSize=50&section=header&fontAlignY=40)
 
 </div>
-
 <div align="center">
-
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=laiba-shakeel&data=followers,repositories,stars,commits&theme=light&hide_border=true)](https://github.com/laiba-shakeel/laiba-shakeel-widgetbox)
 </div
 # About Me:
