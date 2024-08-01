@@ -37,6 +37,7 @@ Welcome to my GitHub profile. I'm a passionate **MERN Stack Developer** from Pak
 - 📄 Know about my experiences [https://www.linkedin.com/in/laiba-shakeel/](https://www.linkedin.com/in/laiba-shakeel/)
 
 - ⚡ Fun fact **I can juggle code, coffee, and cat memes with equal proficiency!**
+
 # My Stats 🔥:
 
 <div style="display: flex; justify-content: center; align-items: start; flex-direction: column;">
@@ -114,7 +115,6 @@ Welcome to my GitHub profile. I'm a passionate **MERN Stack Developer** from Pak
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </p>
-
 
 <div align="center">
 
