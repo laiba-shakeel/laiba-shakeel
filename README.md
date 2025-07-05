@@ -60,22 +60,6 @@ Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** from **P
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laiba-shakeel&show_icons=true&theme=tokyonight" alt="Laiba's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laiba-shakeel&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiba-shakeel&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 <!-- Footer Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Thanks%20for%20visiting%20my%20profile!&textBg=false&animation=scaleIn&fontSize=30&section=footer&fontAlignY=70" alt="Footer" />
