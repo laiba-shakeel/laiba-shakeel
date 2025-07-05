@@ -3,13 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi%20👋,%20I'm%20Laiba%20Shakeel&textBg=false&animation=scaleIn&fontSize=50&section=header&fontAlignY=40" alt="Header" />
 </p>
 
-<!-- GitHub Stats Widget -->
-<p align="center">
-  <a href="https://github.com/laiba-shakeel/laiba-shakeel-widgetbox">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=laiba-shakeel&data=followers,repositories,stars,commits&theme=light&hide_border=true" alt="Laiba GitHub Stats" />
-  </a>
-</p>
-
 ---
 
 ## 👩‍💻 About Me
@@ -63,6 +56,22 @@ Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** from **P
   <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laiba-shakeel&show_icons=true&theme=tokyonight" alt="Laiba's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laiba-shakeel&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiba-shakeel&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
