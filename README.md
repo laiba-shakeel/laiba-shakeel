@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** from **P
   <a href="https://twitter.com/@lilishaqil" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" />
   </a>
-  <a href="https://www.linkedin.com/in/laiba-shakeel/" target="_blank">
+  <a href="https://www.linkedin.com/in/laiba-shakeel-ahmed-82a395238/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" />
   </a>
   <a href="https://www.facebook.com/bai.funjai/" target="_blank">
